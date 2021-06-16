@@ -1,0 +1,37 @@
+== SISMIOP
+
+=== Nama Layanan
+
+=== Deskripsi layanan secara umum
+
+=== Detail syarat dan Ketentuan Layanan
+
+=== Cakupan Pengguna
+
+=== Pengelola Layanan
+
+=== Waktu Berjalannya Layanan
+
+berisi tentang waktu layanan dapat diberikan 
+
+=== Referensi ke _template_ SLA (_Service Level Agreement_)
+
+berisi tautan ke _template_ SLA
+
+=== _Notional Charging_
+
+berisi komponen biaya tetap dan komponen biaya variabel
+
+=== Proses Untuk Permintaan Layanan Teknologi Informasi
+
+=== Dampak operasional apabila terjadi gangguan
+
+=== Daftar Layanan Pendukung Layanan Utama 
+
+berisi layanan pendukung yang harus tersedia agar layanan utama dapat berjalan
+
+=== Versi dan tanggal revisi 
+
+berisi penjelasan versi perubahan layanan teknologi informasi beserta tanggal perubahannya
+
+=== Lembar Persetujuan
